@@ -1,0 +1,272 @@
+データファイルを開きます. 
+ファイル名: sample.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+1
+要素数: 65537
+- ソート開始 -
+- ソート完了 -
+ソート時間: 18.26 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: sample.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+2
+要素数: 65537
+- ソート開始 -
+- ソート完了 -
+ソート時間: 31.49 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: sample.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+3
+要素数: 65537
+- ソート開始 -
+- ソート完了 -
+ソート時間: 9.72 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+1
+要素数: 32769
+- ソート開始 -
+- ソート完了 -
+ソート時間: 4.48 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+2
+要素数: 32769
+- ソート開始 -
+- ソート完了 -
+ソート時間: 8.66 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+3
+要素数: 32769
+- ソート開始 -
+- ソート完了 -
+ソート時間: 2.17 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+/////////////////////////////////////////////////////////////////////
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+1
+要素数: 131073
+- ソート開始 -
+- ソート完了 -
+ソート時間: 72.28 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+2
+要素数: 131073
+- ソート開始 -
+- ソート完了 -
+ソート時間: 129.15 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+3
+要素数: 131073
+- ソート開始 -
+- ソート完了 -
+ソート時間: 38.89 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+/////////////////////////////////////////////////////////////////
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+1
+要素数: 16385
+- ソート開始 -
+- ソート完了 -
+ソート時間: 1.14 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+2
+要素数: 16385
+- ソート開始 -
+- ソート完了 -
+ソート時間: 2.22 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+3
+要素数: 16385
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.54 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+////////////////////////////////////////////////////////////////////////
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+1
+要素数: 8193
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.28 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+2
+要素数: 8193
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.47 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+3
+要素数: 8193
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.13 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+//////////////////////////////////////////////////////////////
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+1
+要素数: 4097
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.06 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+2
+要素数: 4097
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.12 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+3
+要素数: 4097
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.03 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+
+///////////////////////////////////////////////////////////////
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+1
+要素数: 2049
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.01 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+2
+要素数: 2049
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0.02 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+データファイルを開きます. 
+ファイル名: data.txt
+Select Sorting System
+1.selection_sort 2.bubble_sort 3.insertion_sort
+3
+要素数: 2049
+- ソート開始 -
+- ソート完了 -
+ソート時間: 0 sec
+ソート結果を表示しますか？　0: 表示しない, 1: 表示する > 0
+
+
+////////////////////////////////////////////////////////////
